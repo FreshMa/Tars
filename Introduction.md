@@ -8,7 +8,7 @@
 
 # 1. <a id="main-chapter-1"></a>Introduction
 
-Tars is a open-source microservice platform. It contains a high-performance RPC framework and a service management platform.
+Tars is an open-source microservice platform. It contains a high-performance RPC framework and a service management platform.
 Based on Tars, you can develop a reliable microservice system efficiently.
 
 Tars is an open-source version of TAF which has being used in Tencent for years.
